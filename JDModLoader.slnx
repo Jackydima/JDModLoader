@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JDModLoader.vcxproj" Id="d570c0eb-8fc7-4476-a6f7-61262e164412" />
+</Solution>
